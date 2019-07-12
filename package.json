@@ -1,6 +1,6 @@
 {
   "name": "weatherapi",
-  "version": "1.0",
+  "version": "2.5",
   "description": "Get_the_current_weather_daily_forecast_for_16_days_and_a_three_hour_interval_forecast_for_5_days_for_your_city__Helpful_stats_graphics_and_this_day_in_history_charts_are_available_for_your_reference__Interactive_maps_show_precipitation_clouds_pressure_wind_around_your_location_stations__Data_is_available_in_JSON_XML_or_HTML_format__Note_This_sample_Swagger_file_covers_the_current_endpoint_only_from_the_OpenWeatherMap_API__brbr_Note_All_parameters_are_optional_but_you_must_select_at_least_one_parameter__Calling_the_API_by_city_ID__using_the_id_parameter_will_provide_the_most_precise_location_results_",
   "license": "CC Attribution-ShareAlike 4.0 (CC BY-SA 4.0)",
   "main": "src/index.js",
