@@ -17,7 +17,7 @@ Access current weather data for any location on Earth including over 200,000 cit
 
 ### Example
 ```javascript
-var OpenWeatherMapApi = require('open_weather_map_api');
+var OpenWeatherMapApi = require('weatherapi');
 var defaultClient = OpenWeatherMapApi.ApiClient.instance;
 
 // Configure API key authorization: app_id
